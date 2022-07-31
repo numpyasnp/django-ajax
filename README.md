@@ -1,4 +1,4 @@
 # django-ajax
 
 
-Add Friend without refresh
+Basi ajax

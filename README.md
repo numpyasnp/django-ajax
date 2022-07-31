@@ -1,4 +1,4 @@
 # django-ajax
 
 
-Basi ajax
+Basic ajax
